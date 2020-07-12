@@ -1,4 +1,6 @@
 library(shiny)
+
+##edited
 library(fireData)
 api_key <- Sys.getenv("AIzaSyBq8Jgj38R9wRyGzJ1JCTNeSCNfqRdM8mU")
 db_url <- Sys.getenv("https://cartoon-f86c5.firebaseio.com")
